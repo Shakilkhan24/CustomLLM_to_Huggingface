@@ -29,4 +29,4 @@ Model-related implementations:
 ### 5. `/training`
 Training-related utilities:
 - `dataset_preparation.py`: Dataset loading and processing
-- `trainer.py`: Training configuration and execution
+- `trainer.py`: Training configuration 
